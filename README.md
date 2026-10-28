@@ -54,11 +54,18 @@ Para manter o equilíbrio quando não estou estudando ou criando laboratórios:
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasslvsantanaI&show_icons=true&theme=radial&include_all_commits=true" alt="Estatísticas do GitHub" />
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://github-readme-stats.vercel.app/api?username=lucasslvsantanaI&show_icons=true&theme=radial&include_all_commits=true"
+      />
+      <img
+        alt="Estatísticas do GitHub do Lucas"
+        src="https://github-readme-stats.vercel.app/api?username=lucasslvsantanaI&show_icons=true&theme=default&include_all_commits=true"
+      />
+    </picture>
   </a>
 </div>
-
-<br>
 
 ### 📫 Vamos nos conectar?
 <p align="left">
