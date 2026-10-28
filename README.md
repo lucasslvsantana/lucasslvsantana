@@ -53,15 +53,15 @@ Para manter o equilíbrio quando não estou estudando ou criando laboratórios:
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/stats-organization/github-stats-extended">
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats.vercel.app/api?username=lucasslvsantanaI&show_icons=true&theme=radial&include_all_commits=true"
+        srcset="https://github-stats-extended.vercel.app/api?username=lucasslvsantana&show_icons=true&theme=dark_github&include_all_commits=true"
       />
       <img
-        alt="Estatísticas do GitHub do Lucas"
-        src="https://github-readme-stats.vercel.app/api?username=lucasslvsantanaI&show_icons=true&theme=default&include_all_commits=true"
+        alt="Estatísticas do GitHub de Lucas Santana"
+        src="https://github-stats-extended.vercel.app/api?username=lucasslvsantana&show_icons=true&theme=light_github&include_all_commits=true"
       />
     </picture>
   </a>
